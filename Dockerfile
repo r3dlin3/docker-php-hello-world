@@ -1,2 +1,3 @@
-FROM php:5.6-apache
+FROM php:7-apache
+RUN apt-get update
 COPY src/ /var/www/html/
