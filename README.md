@@ -15,7 +15,7 @@ Next, you need to build the Docker image. You can do this by running the
 
 After building, run the `./run.bash` script from your command line to start a
 local Docker instance serving the website. You'll be able to access it at
-http://localhost on Linux or http://192.168.99.100 (by default) on Mac OS X.
+http://localhost:8080 on Linux or http://192.168.99.100:8080 (by default) on Mac 
 
 ## Accessing the container
 
